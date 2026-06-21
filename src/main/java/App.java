@@ -11,6 +11,7 @@ public class App {
 
 		
 		System.out.println("cloned project from git, this is second change, changing it from ide");
+		System.out.println("cloned project from git, this is second change, chnaging it again from git");
 
 	}
 
