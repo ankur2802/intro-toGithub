@@ -9,6 +9,8 @@ public class App {
 
 		System.out.println("cloned project from git, thi si first change");
 
+		System.out.println("cloned project from git, this is second change");
+
 	}
 
 }
