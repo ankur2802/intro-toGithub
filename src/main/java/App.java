@@ -7,6 +7,8 @@ public class App {
 		System.out.println("Hello World - Fully Automated Pipeline!");
 		System.out.println("testing automation again");
 
+		System.out.println("cloned project from git, thi si first change");
+
 	}
 
 }
