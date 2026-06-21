@@ -18,7 +18,7 @@ public class App {
 		System.out.println("hi cloned project from git, and changing it from eclipse id second time");
 
 		System.out.println("creating erge confliict from git");
-
+System.out.println("creating second  merge confliict from git");
 	}
 
 }
